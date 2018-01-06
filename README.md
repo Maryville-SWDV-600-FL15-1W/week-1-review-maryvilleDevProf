@@ -47,7 +47,7 @@ Go, team, go!
 Defeat your foe.
 ```
 
-## 4. [phrase_repeater.py]
+## 4 [phrase_repeater.py]
 Write a program that repeats a phrase, given by a user, the number of times a user requests it be repeated.
 
 For example, a user could input the phrase `Lazy harp seal has no job`. Then the user could input to repeat it `3` times. Given these inputs, the program should (1) output the phrase three times and (2) output which repetition this is by starting each line with the repetition number (note the `1`, `2`, and `3` below): 
