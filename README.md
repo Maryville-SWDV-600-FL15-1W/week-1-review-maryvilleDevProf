@@ -30,14 +30,14 @@ Go, team, go!
 Defeat your foe.
 
 Go, team, go!
-Default your foe.
+Defeat your foe.
 Simply the best,
 Better than the rest.
 Go, team, go!
 Defeat your foe.
 
 Go, team, go!
-Default your foe.
+Defeat your foe.
 Simply the best,
 Better than the rest.
 Go, team, go!
