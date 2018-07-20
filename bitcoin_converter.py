@@ -2,3 +2,5 @@
 print('Hello bitcoins')
 
 print("give me bitcoins")
+
+print("another message")
